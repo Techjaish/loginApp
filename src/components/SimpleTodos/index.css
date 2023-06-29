@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ffc2a0;
+  height: 100vh;
+  background-size: cover;
+}
+.sub-container {
+  background: #ffffff;
+  padding: 20px;
+}
+.heading {
+  color: #ffc2a0;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+}

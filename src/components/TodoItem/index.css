@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: column;
+}
+.sub-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.paragraph {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: lighter;
+}
+.button {
+  color: #ff0b37;
+  background: transparent;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: lighter;
+  border: 1px solid #ff0b37;
+}
